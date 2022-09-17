@@ -24,3 +24,21 @@ while i < l:
     i += 1
 print('-' * 20)
 
+#相关API：
+# 1- 添加元素
+list1.append("H")
+print(list1)
+
+list2 = ['Q', 'W', 'E']
+list1.extend(list2) #数组+数组
+print(list1)
+
+list1.insert(3, '0') #可以指定在某个索引的前面添加元素
+print(list1)
+
+#2-修改元素
+
+list1[1] = 'zhangsan'
+print(list1)
+
+
