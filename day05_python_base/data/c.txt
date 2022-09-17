@@ -1,0 +1,4 @@
+hello hello hadoop hive kafuka
+hbase hadoop hadoop
+hadoop hive
+sqoop sqoop
