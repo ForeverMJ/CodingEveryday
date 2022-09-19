@@ -1,0 +1,1 @@
+__all__ = ['MyModule1']  # 支持导入哪些模块列表 只有在from 包名 import * 这种模式下有效
