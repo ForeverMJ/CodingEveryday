@@ -1,4 +1,4 @@
-sid name address sex age birthday
+sid name address sex age
 s01 张三 北京 男 18
 s02 李四 广州 女 26
 s03 王五 广州 男 20
