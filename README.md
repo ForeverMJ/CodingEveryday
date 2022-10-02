@@ -1,5 +1,5 @@
 # CodingEveryday
-i'm a beginner in python ，the repository is recorded my learning in python and date analysis. 
+i'm learning python ，the repository is recorded my learning in python and date analysis. 
 I hope i could code a lot program,so I create this to help myself to keep discipline.
 I graduated from a Chinese university with a bachelor's degree and worked in a Chinese software company for a year and a half.
 Now i'am in Japan,I'am learning Japanese and looking for a job in a Japanese company.
